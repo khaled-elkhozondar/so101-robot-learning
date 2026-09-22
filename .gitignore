@@ -1,0 +1,19 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# ML datasets and model checkpoints
+datasets/
+checkpoints/
+outputs/
+
+# Local caches
+.cache/
+
+# Editor / OS files
+.vscode/
+.DS_Store
